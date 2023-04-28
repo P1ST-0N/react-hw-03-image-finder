@@ -1,6 +1,6 @@
-import React from "react";
-import PropTypes from "prop-types";
-import InfiniteScroll from "react-infinite-scroll-component";
+import React from 'react';
+import PropTypes from 'prop-types';
+import InfiniteScroll from 'react-infinite-scroll-component';
 
 export default function InfiniteScrl({ imagesArray, loadMore }) {
   return (
